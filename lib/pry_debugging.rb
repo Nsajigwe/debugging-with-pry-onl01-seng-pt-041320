@@ -5,4 +5,4 @@ sum = num + 2
 puts sum 
 	
 	end
-	plus_two(num)
+	
